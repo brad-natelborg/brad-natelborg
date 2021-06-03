@@ -15,11 +15,11 @@ Here are some ideas to get you started:
 
 ## 🗯️ About Me
 
-🎬 Project Lead at Twisthink for custom built IoT solutions
+🎬 Project Lead at Twisthink for custom built IoT solutions.  Lead teams across multiple disciplines including mechanical, electrical, software, cloud, and front end development.
 
-⌨️ Background in software development with background in Linux, embedded software development, Docker, Python, and bash scripting
+⌨️ Background in software development with experience in Linux, embedded software development (C code mostly), Docker, Python, SQL, and bash scripting
 
-🏃‍♂️ Avid runner. Have completed 10+ marathons and 2 ultramarathons.  
+🏃‍♂️ Avid runner. Have completed 10+ marathons and 2 ultramarathons. 
 
 🏀 NBA fan and enthusiast
 
